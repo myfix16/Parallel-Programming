@@ -1,0 +1,13 @@
+# build files
+out
+cmake-build-*
+build-*
+__pycache__
+
+# ide files
+.vs
+.vscode
+.idea
+
+# HPC outputs
+*.out

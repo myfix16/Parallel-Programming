@@ -1,0 +1,13 @@
+# ignore build files
+cmake-build*
+build
+build-*
+
+# ignore ide files
+.vscode
+
+# ignore python cache
+__pycache__
+
+# ignore HPC running outputs
+*.out

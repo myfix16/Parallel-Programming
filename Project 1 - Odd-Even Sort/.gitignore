@@ -1,0 +1,12 @@
+# ide files
+.vscode
+.idea
+
+build
+scratch.*
+outputs/*.out
+test_data/*.out
+
+# temporary ignore xlsx and docx files
+*.xlsx
+*.docx
